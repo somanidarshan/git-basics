@@ -12,6 +12,7 @@ public class BranchingActivity extends AppCompatActivity {
         setContentView(R.layout.activity_branching2);
 
         /*
+
         Consider you have 3 Branches:
         Mater , Branch1, Branch2
         Step1: At the beginning, everything is same in all three
