@@ -12,6 +12,7 @@ public class Branching extends AppCompatActivity {
         setContentView(R.layout.activity_branching);
 
         /*
+
         Introduction to Branching
         Step 1: Create New Branch from bottom branch options
         Step 2: Give a Specific and relatable name so that we can easily identify it
