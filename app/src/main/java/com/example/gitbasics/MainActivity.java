@@ -23,7 +23,12 @@ public class MainActivity extends AppCompatActivity {
         Step 8: After that go to repo and select <<push>>
         Step 9: In the next window click on "define remote"
         Step 10: In the upcoming window paste the url of the repo that you have created
-        Step 11: Then push all the changes and write commit msg
+        Step 11: Then select the push option. This procedure will upload all Project Files on Github
+
+        Basics of Pushing:
+        When you do changes and want to update the same on github then follow:
+        >>ADD(CTRL+ALT+A) all the files first>>Commit(CTRL+K) the changes>>Write Commit msg
+        >>Then push(CTRL+SHIFT+K) it by selecting that specific commit>>>Done
 
         */
 
